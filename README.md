@@ -1,3 +1,3 @@
 # tempJenkins
 Delete afterwards
-added to check jenkins pipeline auto build hll
+added to check jenkins pipeline auto build
